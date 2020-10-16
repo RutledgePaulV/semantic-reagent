@@ -1,4 +1,4 @@
-(defproject semantic-reagent "0.1.0"
+(defproject semantic-reagent "0.1.1-SNAPSHOT"
 
   :description
   "A reagent component bundle for Semantic UI and Semantic UI Calendar React."
