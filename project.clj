@@ -1,4 +1,4 @@
-(defproject semantic-reagent "0.1.2-SNAPSHOT"
+(defproject org.clojars.rutledgepaulv/semantic-reagent "0.1.0-SNAPSHOT"
 
   :description
   "A reagent component bundle for Semantic UI and Semantic UI Calendar React."
