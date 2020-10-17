@@ -25,8 +25,8 @@
    ["snapshots" :clojars]]
 
   :dependencies
-  [[org.clojure/clojure "1.10.1"]
-   [org.clojure/clojurescript "1.10.773"]
+  [[org.clojure/clojure "1.10.1" :scope "provided"]
+   [org.clojure/clojurescript "1.10.773" :scope "provided"]
    [cljsjs/semantic-ui-react "0.88.1-0"]
    [cljsjs/semantic-ui-calendar-react "0.15.3-0"]
    [reagent "0.10.0"]]
